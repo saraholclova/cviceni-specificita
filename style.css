@@ -1,0 +1,21 @@
+div>h5 {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+/* body .card-body – to jsem dělala já, ale lepší je cílit na co nejvíc tříd, protože je to pořád vyšší než elementy*/
+.card .card-body {
+  background-color: #fff0ee;
+  padding: 1rem, 1.5rem;
+}
+
+
+/* div .btn-primary – to jsem dělala já, ale lepší je cílit na co nejvíc tříd, protože je to pořád vyšší než elementy*/
+.btn.btn-primary {
+  background-color: #b10849;
+  border: #b10849
+}
+
+.btn.btn-primary:hover {
+  background-color: pink;
+}
